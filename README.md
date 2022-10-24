@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IfeCoker
+- 👋 Hi, I’m Ifeoluwa @IfeCoker
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
